@@ -7,7 +7,7 @@
 
 using namespace std;
 
-//Funkcja foo jest zadeklarowana jako funkcja ktora przyjmuje referencje do listy obiektow Human i zwraca wektro char
+//Funkcja foo jest zadeklarowana jako funkcja ktora przyjmuje referencje do listy obiektow Human i zwraca wektor char
 vector<char> foo(list< Human >& people)
 {
     vector<char> result; //ten wektor bedzie zwracany
